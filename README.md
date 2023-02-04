@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="Header">
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/r8GMmlV8qGrfZ3txfX/giphy-downsized-large.gif" width="200"/>
-  </div>
+<div id="Header" align="center">
+  <img src="https://media.giphy.com/media/r8GMmlV8qGrfZ3txfX/giphy-downsized-large.gif" width="200"/>
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/arturgub/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
