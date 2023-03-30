@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="Header" align="center">
-  <img src="https://media.giphy.com/media/r8GMmlV8qGrfZ3txfX/giphy-downsized-large.gif" width="200"/>
+  ![Readmeheader](https://user-images.githubusercontent.com/29106800/228917976-1f34fb21-055c-42b9-abbd-c9ca9dae4af6.png)
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/arturgub/">
