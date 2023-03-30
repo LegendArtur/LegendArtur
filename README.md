@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LegendArtur/LegendArtur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  ![Readmeheader](https://user-images.githubusercontent.com/29106800/228917976-1f34fb21-055c-42b9-abbd-c9ca9dae4af6.png)
+![Readmeheader](https://user-images.githubusercontent.com/29106800/228917976-1f34fb21-055c-42b9-abbd-c9ca9dae4af6.png)
   
 <div id="Header" align="center">
 
