@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="Header" align="center">
+
   ![Readmeheader](https://user-images.githubusercontent.com/29106800/228917976-1f34fb21-055c-42b9-abbd-c9ca9dae4af6.png)
   
+<div id="Header" align="center">
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/arturgub/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
